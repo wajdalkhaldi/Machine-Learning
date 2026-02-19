@@ -1,0 +1,6 @@
+Amazon Sales Exploratory Data Analysis (EDA)
+This project performs a comprehensive Exploratory Data Analysis (EDA) on an Amazon sales dataset. Following the principles of Lab 3, it focuses on data cleaning, uncovering sales patterns, and visualizing key business metrics.
+The goal of this analysis is to transform raw sales data into actionable insights. By cleaning the data and applying visualization techniques, we identify:
+1- Sales Trends: How revenue fluctuates over time.
+2- Product Performance: Which categories and brands drive the most profit.
+3- Customer Behavior: Preferred payment methods and order quantities.
