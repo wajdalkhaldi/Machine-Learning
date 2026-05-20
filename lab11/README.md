@@ -1,0 +1,3 @@
+Credit Card Customer Segmentation
+
+This lab focuses on customer segmentation using credit card customer data and unsupervised machine learning techniques. The dataset was cleaned by handling missing values, removing unnecessary columns, and scaling the features before applying the K-Means clustering algorithm. Different cluster values were evaluated using the Elbow Method and Silhouette Score to determine the optimal number of customer groups. Finally, PCA was used to visualize the clusters and analyze customer behavior patterns, helping identify different types of customers such as high spenders, cash advance users, and low activity customers.
